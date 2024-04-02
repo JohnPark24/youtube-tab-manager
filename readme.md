@@ -1,10 +1,8 @@
-Title: Youtube Tab Manager
-
-Description:
+# Youtube Tab Manager
 
 Youtube tab manager is a Chrome extension that enhances your browsing experience.
 
-Features:
+## Features:
 
 Efficient Tab Grouping: Easily group your tabs with a single click to organize your browsing sessions better. Group related tabs together to reduce clutter and improve productivity.
 
