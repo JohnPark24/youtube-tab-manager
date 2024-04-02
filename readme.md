@@ -3,6 +3,8 @@
 Youtube tab manager is a Chrome extension that enhances your browsing experience.
 ![marquee](https://github.com/JohnPark24/youtube-tab-manager/assets/62269310/adcb37ea-3b58-4e93-9dfa-95481d8e663e)
 
+#### Video Demo:  https://www.youtube.com/watch?v=oU0uE7r8hAE
+
 ## Features:
 
 Efficient Tab Grouping: Easily group your tabs with a single click to organize your browsing sessions better. Group related tabs together to reduce clutter and improve productivity.
